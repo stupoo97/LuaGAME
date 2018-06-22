@@ -1,0 +1,1 @@
+H:/Love2d/Love2d/love.exe %CD% --console
